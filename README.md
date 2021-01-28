@@ -1,6 +1,6 @@
 # Тестовое задание для Amigoweb
 
-## Использованые технологии
+## Использованные технологии
 
 -   Framework: React
 -   Syles: styled-components: библиотека для component scoped styles // можно при желании переделать в обычный css и использовать className
