@@ -7,4 +7,4 @@
 
 -   Валидация полей: regex
 
-Visit [here](https://rtabulov.github.io/amigoweb-test).
+Visit [here](https://rtabulov.github.io/amigoweb-test/).
